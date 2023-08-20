@@ -1,6 +1,6 @@
 #!bin/bash
 echo "Hello world, I am learning Devops with AWS"
-PERSON1=Nalin
+PERSON1=Manasa
 PERSON2=Vedanta
 echo "$PERSON1: goodmorning $PERSON2"
 echo "$PERSON2: goodmorning $PERSON1"
